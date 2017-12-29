@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://maven.apache.org/POM/4.0.0"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+                <groupId>com.cloudeggtech.chalk</groupId>
+                <artifactId>com.cloudeggtech.chalk.leps</artifactId>
+                <version>0.2.0.RELEASE</version>
+        </parent>
+
+	<groupId>com.cloudeggtech.chalk.leps</groupId>
+	<artifactId>com.cloudeggtech.chalk.leps.im</artifactId>
+	<name>com.cloudeggtech.chalk.leps.im</name>
+	
+	<dependencies>
+		<dependency>
+			<groupId>com.cloudeggtech.chalk</groupId>
+			<artifactId>com.cloudeggtech.chalk</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.cloudeggtech.basalt.leps</groupId>
+			<artifactId>com.cloudeggtech.basalt.leps.im</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.cloudeggtech.chalk.xeps</groupId>
+			<artifactId>com.cloudeggtech.chalk.xeps.delay</artifactId>
+		</dependency>
+	</dependencies>
+	
+</project>
+

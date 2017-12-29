@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://maven.apache.org/POM/4.0.0"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+                <groupId>com.cloudeggtech.chalk</groupId>
+                <artifactId>com.cloudeggtech.chalk.xeps</artifactId>
+                <version>0.2.0.RELEASE</version>
+        </parent>
+
+	<groupId>com.cloudeggtech.chalk.xeps</groupId>
+	<artifactId>com.cloudeggtech.chalk.xeps.delay</artifactId>
+	<name>com.cloudeggtech.chalk.xeps.delay</name>
+	
+	<dependencies>
+		<dependency>
+			<groupId>com.cloudeggtech.chalk</groupId>
+			<artifactId>com.cloudeggtech.chalk</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.cloudeggtech.basalt.xeps</groupId>
+			<artifactId>com.cloudeggtech.basalt.xeps.delay</artifactId>
+		</dependency>
+	</dependencies>
+	
+</project>
+

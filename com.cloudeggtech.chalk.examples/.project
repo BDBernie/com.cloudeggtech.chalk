@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>com.cloudeggtech.chalk.examples</name>
+	<comment>NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+	<projects>
+		<project>com.cloudeggtech.chalk</project>
+		<project>com.cloudeggtech.basalt.protocol.oxm</project>
+		<project>com.cloudeggtech.basalt.protocol</project>
+		<project>com.cloudeggtech.basalt.protocol.im</project>
+		<project>com.cloudeggtech.chalk.xeps.ibr</project>
+		<project>com.cloudeggtech.chalk.xeps.xdata</project>
+		<project>com.cloudeggtech.basalt.xeps.xdata</project>
+		<project>com.cloudeggtech.chalk.xeps.oob</project>
+		<project>com.cloudeggtech.basalt.xeps.oob</project>
+		<project>com.cloudeggtech.chalk.xeps.disco</project>
+		<project>com.cloudeggtech.chalk.xeps.rsm</project>
+		<project>com.cloudeggtech.basalt.xeps.rsm</project>
+		<project>com.cloudeggtech.basalt.xeps.disco</project>
+		<project>com.cloudeggtech.basalt.xeps.ibr</project>
+		<project>com.cloudeggtech.chalk.leps.im</project>
+		<project>com.cloudeggtech.basalt.leps.im</project>
+		<project>com.cloudeggtech.chalk.xeps.delay</project>
+		<project>com.cloudeggtech.basalt.xeps.delay</project>
+		<project>com.cloudeggtech.chalk.xeps.ping</project>
+		<project>com.cloudeggtech.basalt.xeps.ping</project>
+		<project>com.cloudeggtech.chalk.xeps.muc</project>
+		<project>com.cloudeggtech.chalk.xeps.address</project>
+		<project>com.cloudeggtech.basalt.xeps.address</project>
+		<project>com.cloudeggtech.basalt.xeps.muc</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
